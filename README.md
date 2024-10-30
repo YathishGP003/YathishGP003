@@ -1,4 +1,4 @@
-Hi! My name is Yathish G P 😄
+Hi! My name is Yathish 😄
 ========================================================================================================================================
 
 🌍  I am a Front-End Developer based in Bengalore, India.
