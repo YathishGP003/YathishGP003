@@ -1,20 +1,15 @@
-Hi! My name is Yathish 😄
-========================================================================================================================================
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=YathishGP003)
 
-🌍  I am a Front-End Developer based in Bengalore, India.
-<br/>
+- 👷 <samp>Hi, I’m Yathish.
+- 🔭 <samp>Currently pursuing B.Tech in Information Technology(2022 - 2026).
+- 💬 <samp>Ask me about CP
+- 🌱 <samp>I’m currently learning Frontend/Backend Development
+- ⚡ <samp>I play games like cricket, badminton, chess, etc.
+- 🤔 <samp>I like reading books about physics, finance, philosophy, psychology, etc.
+- 📫 <samp>You can reach me on my [LinkedIn](https://www.linkedin.com/in/yathishgp003/)
 
+<!---
 ### Skills
-
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=next,react)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=java,py)](https://skillicons.dev)
 <br/>
-
-### Socials
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/yathishgp003/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+--->
