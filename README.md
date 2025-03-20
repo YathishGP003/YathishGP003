@@ -4,8 +4,7 @@
 - 🔭 <samp>Currently pursuing B.Tech in Information Technology(2022 - 2026).
 - 💬 <samp>Ask me about CP
 - 🌱 <samp>I’m currently learning Frontend/Backend Development
-- ⚡ <samp>I play games like cricket, badminton, chess, etc.
-- 📚 <samp>I like reading books about physics, finance, philosophy, psychology, etc.
+- 📚 <samp>I like reading books about physics, mathematics, psychology, etc.
 - 📫 <samp>You can reach me on my [LinkedIn](https://www.linkedin.com/in/yathishgp003/)
 
 <!---
