@@ -5,7 +5,9 @@
 - 💬 <samp>Ask me about CP
 - 🌱 <samp>I’m currently learning Frontend/Backend Development
 - 📚 <samp>I like reading books about physics, mathematics, psychology, etc.
-- 📫 <samp>You can reach me on my [LinkedIn](https://www.linkedin.com/in/yathishgp003/)
+- 📫 <samp>You can reach me on my
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yathishgp003/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231A1A1A.svg?logo=x&logoColor=white)](https://x.com/YathishGP003/) 
 
 <!---
 ### Skills
